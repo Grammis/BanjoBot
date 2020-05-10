@@ -5,7 +5,7 @@ import discord
 
 #load_dotenv()
 # TOKEN = os.getenv('DISCORD_TOKEN')
-TOKEN = "NzA4NzExMDI2MDEwNDg4OTUz.XrbdXA.agDmGt31H3IPPsplwijF4Qim2h4"
+TOKEN = "NzA4NzExMDI2MDEwNDg4OTUz.Xrh3UA.7yCJBT_ivDvL416qt0mjLbGuKmo"
 emoji_EU = "🌍"
 emoji_NA = "🌎"
 emoji_SEA = "🌏"
