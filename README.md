@@ -1,2 +1,2 @@
 # BanjoBot
-Sick read me for a sick bot
+Sick readme for a sick bot
